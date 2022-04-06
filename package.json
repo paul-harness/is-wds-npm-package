@@ -1,5 +1,5 @@
 {
-  "name": "@web-dev-simplified/is-wds",
+  "name": "@paul-harness/is-wds",
   "version": "1.0.0",
   "description": "Is the string WDS?",
   "main": "index.js",
